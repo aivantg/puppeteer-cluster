@@ -2,8 +2,8 @@
   "name": "puppeteer-cluster",
   "version": "0.22.0",
   "description": "Cluster management for puppeteer",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "./node_modules/.bin/jest",
